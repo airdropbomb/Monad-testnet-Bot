@@ -34,7 +34,7 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 3. Edit data.txt file and input your private keys (one per line)
 
    ```bash
-   your_private_key
+   nano private.key
    ```
 
 ## Usage
