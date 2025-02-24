@@ -22,7 +22,7 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kazuha787/Monard-Bot.git
+   git clone https://github.com/airdropbomb/Monad-testnet-Bot.git
    cd Monard-Bot
    ```
 
